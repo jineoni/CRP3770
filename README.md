@@ -5,7 +5,7 @@
     - The routes students currently use for commuting are poorly equipped for walking, causing inconvenience.
     - Students primarily use two routes:
         - Via the Underwood Memorial Hall side gate.
-          <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_UnderwoodMemorialHall.png" alt="UnderwoodMemorialHall" width="300">
+          <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_UnderwoodMemorialHall.png" alt="UnderwoodMemorialHall" width="300"><br/>
             
         - Via the West Gate.
             
