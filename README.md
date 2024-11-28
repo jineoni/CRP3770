@@ -6,7 +6,7 @@
     - Students primarily use two routes:
         - Via the Underwood Memorial Hall side gate.
             
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/db5c33d0-e510-4667-b185-b03bb446fb45/9dc51e19-57e9-46e8-b984-842f00ae9f3f/Untitled.png)
+            ![Untitled]([https://prod-files-secure.s3.us-west-2.amazonaws.com/db5c33d0-e510-4667-b185-b03bb446fb45/9dc51e19-57e9-46e8-b984-842f00ae9f3f/Untitled.png](https://file.notion.so/f/f/db5c33d0-e510-4667-b185-b03bb446fb45/9dc51e19-57e9-46e8-b984-842f00ae9f3f/Untitled.png?table=block&id=86f9c771-dff9-4182-b65a-380d1e4e44d7&spaceId=db5c33d0-e510-4667-b185-b03bb446fb45&expirationTimestamp=1732924800000&signature=0ArXybWQOzBzksS8YbHeqRnGyX0cLzwImHYu1nbU6qA&downloadName=Untitled.png))
             
         - Via the West Gate.
             
