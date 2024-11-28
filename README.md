@@ -8,7 +8,7 @@
           <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_UnderwoodMemorialHall.png" alt="Underwood Memorial Hall" width="300">
 
         - **Via the West Gate**  
-          <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/db5c33d0-e510-4667-b185-b03bb446fb45/27071694-b5ee-45e7-9330-ef4734c540fe/Untitled.png" alt="West Gate" width="300">
+          <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_WestGate.png" alt="West Gate" width="300">
 
 ---
 
