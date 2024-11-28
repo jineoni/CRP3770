@@ -149,8 +149,7 @@ P_in = Prob(ε_jn - ε_in ≤ V_in - V_jn)
 
 #### **3. PM Fare and In-Vehicle Travel Time (IVT) Correlation**
 
-**Problem**: The PM fare is calculated as Base Fare (600 KRW) + In-Vehicle Travel Time × 150 KRW
-This created a strong correlation between PM fare and IVT, leading to multicollinearity.  
+**Problem**: The PM fare is calculated as Base Fare (600 KRW) + In-Vehicle Travel Time × 150 KRW. This created a strong correlation between PM fare and IVT, leading to multicollinearity.  
 **Solution**: PM fare was normalized to **KRW per minute** to reduce redundancy and improve interpretability.
 
 #### **4. Shuttle Bus IVT Intervals**
