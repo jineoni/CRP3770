@@ -8,11 +8,11 @@ Students living in Yeonhui-dong.
 ### **Issues**  
 Current commuting routes are poorly equipped for walking, causing inconvenience. The primary commuting routes are:  
 
-- **Via the Underwood Memorial Hall Side Gate**  
-  ![Underwood Memorial Hall](https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_UnderwoodMemorialHall.png)
+- **Via the Underwood Memorial Hall Side Gate**
+  <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_UnderwoodMemorialHall.png" alt="West Gate" width="300">
 
-- **Via the West Gate**  
-  ![West Gate](https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_WestGate.png)
+- **Via the West Gate**
+  <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_WestGate.png" alt="West Gate" width="300">
 
 ---
 
@@ -80,8 +80,8 @@ Village Bus, PM (Personal Mobility), Walking, and Demand-Based Shuttle Bus.
 | **Out-of-Vehicle Travel Time** | Common variable         |
 | **Wait Time**                | Common variable          |
 
-### **Survey Attribute Levels**  
-![Survey Attribute Levels](https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_SurveyAttributionLevels.png)
+### **Survey Attribute Levels**
+<img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_SurveyAttributionLevels.png" alt="West Gate" width="300">
 
 ### **Survey Construction**  
 - To reduce the burden on respondents of answering all scenarios, an **orthogonal design** was used, allowing each individual to respond to **6 questions**.  
@@ -104,22 +104,18 @@ Village Bus, PM (Personal Mobility), Walking, and Demand-Based Shuttle Bus.
 
 The utility of each alternative is calculated as:
 
-\[
-U_{in} = V_{in} + \epsilon_{in}
-\]
+U_in = V_in + ε_in
 
 Where:
 
-- \( V_{in} = \sum \beta_{ik} x_{ink} \): Deterministic utility based on observable attributes (fare, IVT, OVT, waiting time).
-- \( \epsilon_{in} \): Stochastic utility reflecting unobservable factors.
+- V_in = Σ β_ik x_ink: Deterministic utility based on observable attributes (fare, IVT, OVT, waiting time).
+- ε_in: Stochastic utility reflecting unobservable factors.
 
 #### **Logit Model**
 
 The choice probability for each alternative is modeled as:
 
-\[
-P_{in} = \text{Prob}(\epsilon_{jn} - \epsilon_{in} \leq V_{in} - V_{jn})
-\]
+P_in = Prob(ε_jn - ε_in ≤ V_in - V_jn)
 
 ---
 
