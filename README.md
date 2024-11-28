@@ -8,10 +8,12 @@ Students living in Yeonhui-dong.
 ### **Issues**  
 Current commuting routes are poorly equipped for walking, causing inconvenience. The primary commuting routes are:  
 
-- **Via the Underwood Memorial Hall Side Gate** 
+- **Via the Underwood Memorial Hall Side Gate**
+  
   <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_UnderwoodMemorialHall.png" alt="West Gate" width="300">
 
-- **Via the West Gate** 
+- **Via the West Gate**
+  
   <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_WestGate.png" alt="West Gate" width="300">
 
 ---
@@ -91,6 +93,7 @@ Village Bus, PM (Personal Mobility), Walking, and Demand-Based Shuttle Bus.
   %mktex(3 ** 7, n=18);
   %mktblock(data=randomized, nblocks=3);
   proc print; run;
+
 <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_SurveyOrthogonal.png" alt="West Gate" width="300">
 
 - **Survey Construction**:  
