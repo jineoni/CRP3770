@@ -1,9 +1,8 @@
 ### Background
 
 - **Subjects**: Students living in Yeonhui-dong.
-- **Issues**:
-    1. Current commuting routes are poorly equipped for walking, causing inconvenience.
-    2. Primary commuting routes:
+- **Issues**: Current commuting routes are poorly equipped for walking, causing inconvenience.
+    Primary commuting routes:
         - **Via the Underwood Memorial Hall side gate**  
           <img src="https://my-github-images.s3.us-east-2.amazonaws.com/MobSolution_UnderwoodMemorialHall.png" alt="Underwood Memorial Hall" width="300">
 
